@@ -220,4 +220,8 @@ This exercise is successful when:
 
 ## Disclaimer
 
-This scenario should be adapted to the organization’s device policies, asset management process, privacy obligations, and technical controls.
+This lost device scenario is provided as a practical guideline for awareness training, discussion, or tabletop exercises.
+
+Organizations should adopt, adapt, or modify the scenario based on what is appropriate for their device management policy, asset management process, data protection requirements, incident response procedure, technical controls, workforce structure, and reporting channels.
+
+The scenario is not intended to be prescriptive. It should be reviewed and tailored before use to ensure it aligns with the organization’s internal policies, legal obligations, operational needs, and risk appetite.
