@@ -24,6 +24,7 @@ It is designed for:
 4. [Monthly Campaign Calendar](monthly-campaign-calendar.md)
 5. [Awareness Metrics Dashboard](awareness-metrics-dashboard.md)
 6. [Phishing Simulation Governance](phishing-simulation-governance.md)
+7. [AI-Era Awareness Requirements](ai-era-awareness-requirements.md)
 
 ## Role-Based Training
 
