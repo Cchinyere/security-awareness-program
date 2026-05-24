@@ -50,12 +50,11 @@ It is designed for:
 
 ## Disclaimer
 
-This security awareness program is provided as a practical guideline to support organizations in designing, improving, or reviewing their own awareness activities.
+This program is provided as a practical guideline to help organizations design, improve, or review their own security awareness activities.
 
 Organizations are encouraged to adopt, adapt, or modify any part of this program based on what is appropriate for their size, sector, risk profile, workforce, regulatory obligations, internal policies, technical environment, and operational needs.
 
 This document is not intended to be prescriptive or to replace legal, regulatory, compliance, privacy, or professional security advice. Each organization should review the guidance carefully and apply it in a way that aligns with its governance structure, business objectives, security controls, and risk appetite.
-
 
 ## Author
 
